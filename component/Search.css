@@ -1,0 +1,38 @@
+.search__container{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 300px;
+
+}
+
+.search__container > avatar{
+    display: flex;
+    align-items: center;
+}
+
+.search__icon{
+    display: flex;
+    border: 1px solid black;
+    height: 35px;
+    width: 725px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px;
+    margin-left: 165px;
+   
+
+}
+
+.search__container > .search__icon > input{
+    outline-width: 0;
+    border: none ;
+    border-radius: 3px;
+    background-color: transparent;
+}
+
+.search__container > .search__icon > .MuiSvgIcon-root{
+    margin-left: -475px;
+}

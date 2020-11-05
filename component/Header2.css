@@ -1,0 +1,15 @@
+.header2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 20px;
+
+}
+.header2 > .MuiSvgIcon-root{
+    width: 40px;
+    height: 40px;
+    justify-content: space-around;
+
+}

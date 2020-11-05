@@ -1,0 +1,23 @@
+.Story__outer >img{
+    width: 120px;
+    height: 180px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.Story{
+    width: 100%;
+    align-items: center;
+    justify-items: center;
+    display: flex;
+    margin: auto;
+    
+}
+
+.Story__outer{
+    align-items: center;
+    justify-items: center;
+    display: flex;
+    flex-direction: row;
+}

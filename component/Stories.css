@@ -1,0 +1,11 @@
+.stories{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: 300px;
+    overflow-x: scroll;
+    width: 935px;
+
+}

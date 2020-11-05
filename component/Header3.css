@@ -1,0 +1,33 @@
+.header3{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.live{
+    border: 1px solid black;
+    width: 310px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.photo{
+    border: 1px solid black;
+    width: 310px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.room{
+    border: 1px solid black;
+    width: 310px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
